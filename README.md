@@ -9,9 +9,9 @@
 | Dataset ID | `225571` |
 | Location | Kingsport-Bristol, TN-VA |
 | Category | Restaurants |
-| Full dataset size | 625 records |
-| Free sample size | 62 records (9.92%) |
-| Last export | 2026-04-07T12:03:38.260248+00:00 |
+| Full dataset size | 626 records |
+| Free sample size | 62 records (9.9%) |
+| Last export | 2026-04-14T11:55:36.090166+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kingsport-bristol-metro-tn-va-us-sample-225571/releases/download/sample-latest/beamstation_225571_restaurants-us-kingsportbristoltnva_SAMPLE_DIST.csv) |
 
 ## What is in this sample
