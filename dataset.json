@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Multi-city restaurant dataset for Kingsport-Bristol (Metro), TN-VA, covering Kingsport and Bristol. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Kingsport-Bristol (Metro), TN-VA, US",
-  "export_job_id": "d869995f-7af8-47e8-ade1-5d3dcc38dc43",
+  "export_job_id": "986069f1-6d6b-4130-a1d8-c40b467c4260",
   "github_org": "Beamstation-Datasets",
   "id_short": 225571,
   "location_name": "Kingsport-Bristol, TN-VA",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-kingsport-bristol-metro-tn-va-us-sample-225571",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/225571/beamstation_225571_restaurants-us-kingsportbristoltnva_SAMPLE_DIST.csv",
-  "sample_pct": 9.92,
+  "sample_pct": 9.9,
   "sample_records": 62,
-  "sample_sha256": "11f34d485a4ea22b6a163979e93f33a05305246fa0025382a4b351e207ea5351",
-  "sample_size_bytes": 256493,
-  "total_records": 625,
-  "updated_at": "2026-04-07T12:03:38.260248+00:00"
+  "sample_sha256": "b5e7c42fea6acca9959cb8fb903fb1f4a55667886450e6fdaa5a5bfebe0d77af",
+  "sample_size_bytes": 226973,
+  "total_records": 626,
+  "updated_at": "2026-04-14T11:55:36.090166+00:00"
 }
