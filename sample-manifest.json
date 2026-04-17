@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d869995f-7af8-47e8-ade1-5d3dcc38dc43",
+  "export_job_id": "986069f1-6d6b-4130-a1d8-c40b467c4260",
   "id_short": 225571,
-  "published_at": "2026-04-11T19:06:31Z",
+  "published_at": "2026-04-17T19:13:29Z",
   "repo_name": "all-restaurants-in-kingsport-bristol-metro-tn-va-us-sample-225571",
   "sample_asset_name": "beamstation_225571_restaurants-us-kingsportbristoltnva_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/225571/beamstation_225571_restaurants-us-kingsportbristoltnva_SAMPLE_DIST.csv",
   "sample_records": 62,
-  "sample_sha256": "11f34d485a4ea22b6a163979e93f33a05305246fa0025382a4b351e207ea5351",
-  "sample_size_bytes": 256493,
-  "total_records": 625
+  "sample_sha256": "b5e7c42fea6acca9959cb8fb903fb1f4a55667886450e6fdaa5a5bfebe0d77af",
+  "sample_size_bytes": 226973,
+  "total_records": 626
 }
