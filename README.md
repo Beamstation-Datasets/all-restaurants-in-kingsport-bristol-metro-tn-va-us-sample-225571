@@ -1,6 +1,6 @@
 # All Restaurants in Kingsport-Bristol (Metro), TN-VA, US
 
-> Free BeamStation sample export with 59 rows and masked direct-contact fields.
+> Free BeamStation sample export with 70 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `225571` |
 | Location | Kingsport-Bristol, TN-VA |
 | Category | Restaurants |
-| Full dataset size | 599 records |
-| Free sample size | 59 records (9.85%) |
-| Last export | 2026-04-28T13:16:13.238961+00:00 |
+| Full dataset size | 709 records |
+| Free sample size | 70 records (9.87%) |
+| Last export | 2026-05-06T00:21:18.889177+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kingsport-bristol-metro-tn-va-us-sample-225571/releases/download/sample-latest/beamstation_225571_restaurants-us-kingsportbristoltnva_SAMPLE_DIST.csv) |
 
 ## What is in this sample
